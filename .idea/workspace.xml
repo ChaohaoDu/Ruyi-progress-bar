@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4d57979-3a23-43b8-94dd-02fad0bc2322" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/icons/Backgrounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/icons/Icon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MyProgressTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyProgressTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/handler/YoCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/handler/YoHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/icons/MirrorImageIcon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/icons/YoBackgrounds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/icons/YoIcons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logic/ProgressBarLafManagerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/ProgressBarLafManagerListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logic/YoProgressBarUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/ProgressBarUi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/logic/YoProgressBarUiState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/ProgressBarUiState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/settings/YoSettingsComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/settings/YoSettingsConfigurable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/settings/YoSettingsState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/Naruto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/bricks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/gray.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/narutoYellow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/rainbow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/sonicBackground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/NyanCat.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/mario.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/minecraft.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/narutoRun.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/saske.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/соник.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Images/cat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIcon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIcon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIconOriginal.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +61,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ChaohaoDu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ChaohaoDu/Ruyi-progress-bar.git",
+    "accountId": "5fc40af7-93b7-48bf-8211-e7eb66820b83"
+  }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -102,19 +87,23 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Ruyi-progress-bar [runIde].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Ruyi-progress-bar [setupDependencies].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Ruyi-progress-bar [runIde].executor": "Run",
+    "Gradle.Ruyi-progress-bar [setupDependencies].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Ruyi-progress-bar [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -164,11 +153,34 @@
       <workItem from="1732777424994" duration="34000" />
       <workItem from="1732777571948" duration="34000" />
       <workItem from="1733441016391" duration="66000" />
-      <workItem from="1736831807468" duration="103000" />
+      <workItem from="1736831807468" duration="442000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
