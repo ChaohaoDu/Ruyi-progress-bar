@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4d57979-3a23-43b8-94dd-02fad0bc2322" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/icons/Backgrounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/icons/Icon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MyProgressTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MyProgressTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/handler/YoCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/handler/YoHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/icons/MirrorImageIcon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/icons/YoBackgrounds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/icons/YoIcons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/ProgressBarLafManagerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/ProgressBarLafManagerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/YoProgressBarUi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/ProgressBarUi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/YoProgressBarUiState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/ProgressBarUiState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/settings/YoSettingsComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/settings/YoSettingsConfigurable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/settings/YoSettingsState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/Naruto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/bricks.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/narutoYellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/rainbow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Backgrounds/sonicBackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/NyanCat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/mario.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/minecraft.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/narutoRun.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/saske.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Gifs/соник.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Images/cat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIcon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIcon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/pluginIconOriginal.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation>
+            <after_sync>
+              <task name="setupDependencies" />
+            </after_sync>
+          </activation>
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ruyi-progress-bar" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ruyi-progress-bar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ruyi-progress-bar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="intellij" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Ruyi-progress-bar" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pT5ckL62LyuapQSxOCvtLO4eXT" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Ruyi-progress-bar [runIde].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Ruyi-progress-bar [setupDependencies].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Ruyi-progress-bar [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Ruyi-progress-bar [runIde]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4d57979-3a23-43b8-94dd-02fad0bc2322" name="Changes" comment="" />
+      <created>1732777305445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732777305445</updated>
+      <workItem from="1732777306698" duration="24000" />
+      <workItem from="1732777424994" duration="34000" />
+      <workItem from="1732777571948" duration="34000" />
+      <workItem from="1733441016391" duration="66000" />
+      <workItem from="1736831807468" duration="103000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

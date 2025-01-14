@@ -1,0 +1,32 @@
+<idea-plugin>
+    <id>Ruyi-progress-bar</id>
+    <name>Ruyi Progress Bar</name>
+    <version>1.0</version>
+    <idea-version since-build="193" until-build="998.*"/>
+    <vendor email="chaohaodu@gmail.com" url="https://www.chaohaodu.com">Chaohao Du</vendor>
+
+    <description><![CDATA[
+      Ruyi Progress Bar is a plugin that provides a progress bar with cute Ruyi avatar.<br/><br/>
+      The plugin is based on <a href="https://plugins.jetbrains.com/plugin/14708-mario-progress-bar">Mario Progress Bar</a> and <a href="https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar">Nyan Progress Bar</a>
+    ]]></description>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <applicationService serviceImplementation="logic.ProgressBarUiState"/>
+    </extensions>
+
+    <actions>
+        <action id="com.example.MyProgressAction" class="MyProgressAction"
+                text="Run My Progress Task">
+            <add-to-group group-id="ToolsMenu" anchor="last"/>
+        </action>
+    </actions>
+
+    <applicationListeners>
+        <listener class="logic.ProgressBarLafManagerListener"
+                  topic="com.intellij.ide.ui.LafManagerListener"/>
+        <listener class="logic.ProgressBarLafManagerListener"
+                  topic="com.intellij.openapi.application.ApplicationActivationListener"/>
+    </applicationListeners>
+</idea-plugin>
