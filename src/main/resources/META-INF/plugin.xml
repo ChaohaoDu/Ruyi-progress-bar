@@ -1,8 +1,8 @@
 <idea-plugin>
     <id>Ruyi-progress-bar</id>
     <name>Ruyi Progress Bar</name>
-    <version>1.0</version>
-    <idea-version since-build="193" until-build="998.*"/>
+    <version>1.1</version>
+    <idea-version since-build="193"/>
     <vendor email="chaohaodu@gmail.com" url="https://www.chaohaodu.com">Chaohao Du</vendor>
 
     <description><![CDATA[
@@ -16,11 +16,16 @@
         <applicationService serviceImplementation="logic.ProgressBarUiState"/>
     </extensions>
 
+    <change-notes><![CDATA[
+      <em>1.1 Set to unlimited until-build version</em><br>
+      <em>1.0 Creation of the Ruyi Progress Bar Project</em><br>
+    ]]>
+    </change-notes>
     <actions>
-        <action id="com.example.MyProgressAction" class="MyProgressAction"
-                text="Run My Progress Task">
-            <add-to-group group-id="ToolsMenu" anchor="last"/>
-        </action>
+<!--        <action id="com.example.MyProgressAction" class="MyProgressAction"-->
+<!--                text="Run My Progress Task">-->
+<!--            <add-to-group group-id="ToolsMenu" anchor="last"/>-->
+<!--        </action>-->
     </actions>
 
     <applicationListeners>
